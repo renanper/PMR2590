@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>16AB4252-0157-4285-9354-7A4E04DFCF60</string>
+	<key>IDESourceControlProjectName</key>
+	<string>PMR2590</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>F3287DC1398CF00F7E33C1498974031AD00C234F</key>
+		<string>https://github.com/revmobgithub/matchUpIOS.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>PMR2590/PMR2590.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>F3287DC1398CF00F7E33C1498974031AD00C234F</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/revmobgithub/matchUpIOS.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F3287DC1398CF00F7E33C1498974031AD00C234F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F3287DC1398CF00F7E33C1498974031AD00C234F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>xcode</string>
+		</dict>
+	</array>
+</dict>
+</plist>
